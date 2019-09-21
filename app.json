@@ -20,11 +20,11 @@
         },
         "UUID": {
             "description": "搜索uuidgenerator在线生成自己的UUID",
-            "value": "8fb2b416-d48a-11e7-9296-cec278b6b50a"
+            "value": "c5a195b5-1082-45f4-b94d-7c9f9633dd8d"
         },
         "CONFIG_JSON3": {
             "description": "拼接config.json,默认即可",
-            "value": "\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
+            "value": "\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"ray\",\"settings\":{}}}"
         }
     }
 }
